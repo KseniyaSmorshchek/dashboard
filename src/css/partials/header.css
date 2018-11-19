@@ -1,0 +1,23 @@
+* {
+  padding: 0;
+  margin: 0; }
+
+ul, ol {
+  list-style: none; }
+
+a {
+  text-decoration: none; }
+  a:hover {
+    text-decoration: none; }
+
+table {
+  border-collapse: collapse;
+  border-spacing: 0; }
+
+.header {
+  background-color: #5897cc;
+  padding: 20px 0; }
+  .header .header__logo {
+    text-align: center; }
+    .header .header__logo img {
+      max-width: 150px; }
